@@ -1,4 +1,12 @@
 # Information
+<h3>WIGO</h3>
+<br>
+<ul>
+  <li>웹프로그래밍 프로젝트(2018.03 ~ 2018.06)</li>
+  <li>서울에서 혼자 갈 수 있는 장소 추천 사이트</li>
+  <li>https://github.com/LeeCheolGu/WebProgrammingProject2018-1</li>
+</ul>
+<br>
 <h3>Vlock</h3>
 <br>
 <ul>
@@ -14,10 +22,18 @@
   <li>https://github.com/LeeCheolGu/Seminar-for-dissertation</li>
 </ul>
 <br>
-<h3>GeniePet</h3>
+<h3>GeniePet-Server</h3>
 <br>
 <ul>
   <li>창의 학기제를 통한 프로젝트(2019.08 ~ 진행중)</li>
   <li>딥러닝 기반 반려동물 인식을 활용한 사용자 편의 중심의 큐레이션 서비스 플랫폼 개발</li>
   <li>https://github.com/LeeCheolGu/GeniePet_Server</li>
+</ul>
+<br>
+<h3>GeniePet-Client</h3>
+<br>
+<ul>
+  <li>창의 학기제를 통한 프로젝트(2019.08 ~ 진행중)</li>
+  <li>딥러닝 기반 반려동물 인식을 활용한 사용자 편의 중심의 큐레이션 서비스 플랫폼 개발</li>
+  <li>https://github.com/LeeCheolGu/GeniePet_Client</li>
 </ul>
