@@ -25,7 +25,7 @@
 <h3>GeniePet-Server</h3>
 <br>
 <ul>
-  <li>창의 학기제를 통한 프로젝트(2019.08 ~ 진행중)</li>
+  <li>창의 학기제를 통한 프로젝트(2019.07 ~ 2019.12)</li>
   <li>딥러닝 기반 반려동물 인식을 활용한 사용자 편의 중심의 큐레이션 서비스 플랫폼 개발</li>
   <li>https://github.com/LeeCheolGu/GeniePet_Server</li>
 </ul>
