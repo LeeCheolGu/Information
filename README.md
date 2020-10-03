@@ -8,6 +8,14 @@
   <li> 교내 창의설계경진대회 우수상
   <li> 교내 코딩챌리지대회 4등
 </ul>
+<br>
+<h3>iOS 프로젝트</h3>
+<br>
+<ul>
+  <li>ByteCoin</li>
+  <li>https://github.com/LeeCheolGu/ByteCoin-iOS13</li>
+</ul>
+<br>
 <h3>WIGO</h3>
 <br>
 <ul>
@@ -53,11 +61,4 @@
   <li>Movie API with Graphql</li>
   <li>GraphQL를 학습하기 위한 간단한 Movie API 개발</li>
   <li>https://github.com/LeeCheolGu/MovieQL</li>
-</ul>
-<br>
-<h3>iOS 프로젝트</h3>
-<br>
-<ul>
-  <li>ByteCoin</li>
-  <li>https://github.com/LeeCheolGu/ByteCoin-iOS13</li>
 </ul>
