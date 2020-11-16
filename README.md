@@ -16,6 +16,10 @@
   <li>https://github.com/LeeCheolGu/ByteCoin-iOS13</li>
   <li>Flash Chat-채팅 앱</li>
   <li>https://github.com/LeeCheolGu/Flash-Chat-iOS13</li>
+  <li>News App</li>
+  <li>https://github.com/LeeCheolGu/NewsApp</li>
+  <li>TableView 및 데이터 통신 연습</li>
+  
 </ul>
 <br>
 <h3>WIGO</h3>
