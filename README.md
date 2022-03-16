@@ -1,6 +1,8 @@
 # Information
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeCheolGu)](https://github.com/LeeCheolGu/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeCheolGu)](https://github.com/LeeCheolGu/github-readme-stats) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeCheolgu&count_private=true)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjfrn0443)](https://solved.ac/cjfrn0443)
