@@ -1,4 +1,7 @@
 # Information
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeCheolGu)](https://github.com/LeeCheolGu/github-readme-stats)
+
 <h3>Information</h3>
 <br>
 <ul>
