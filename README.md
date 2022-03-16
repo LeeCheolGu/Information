@@ -1,12 +1,11 @@
 # Information
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeCheolGu)](https://github.com/LeeCheolGu/github-readme-stats) -->
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeCheolgu&count_private=true)
 
-[![Solved.ac
+<!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjfrn0443)](https://solved.ac/cjfrn0443)
-
+ -->
+ 
 <h3>Information</h3>
 <br>
 <ul>
@@ -17,7 +16,9 @@
   <li> 교내 코딩챌리지대회 4등
 </ul>
 <br>
-<h3>iOS 프로젝트</h3>
+
+
+<!-- <h3>iOS 프로젝트</h3>
 <br>
 <ul>
   <li><h4>ByteCoin</h4></li>
@@ -75,4 +76,4 @@
   <li>Movie API with Graphql</li>
   <li>GraphQL를 학습하기 위한 간단한 Movie API 개발</li>
   <li>https://github.com/LeeCheolGu/MovieQL</li>
-</ul>
+</ul> -->
